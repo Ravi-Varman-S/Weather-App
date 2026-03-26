@@ -20,6 +20,6 @@ A simple weather app that fetches real-time data using OpenWeather API.
 3. Open index.html
 
 Get Free API Key
-Go to: https://openweathermap.org/api
-Sign up
-Copy your API key
+1. Go to: https://openweathermap.org/api
+2. Sign up
+3. Copy your API key
